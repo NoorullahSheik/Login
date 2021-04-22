@@ -1,4 +1,4 @@
-package com.javatpoint;
+package com.mp.login;
 
 public class User {
     String name;
